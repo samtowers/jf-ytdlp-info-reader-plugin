@@ -46,6 +46,31 @@ For Video files it follow the same rules as the channel format.
 
 # Installation
 
+## As a direct Jellyfin Repository
+
+Open Admin Dashboard.
+
+Click on **Catalogue** and open the settings cog:
+
+![alt text](.assets/image-2.png)
+
+Add a new repository from the screen, using the "+" icon.
+
+Add a new entry as below:
+
+![alt text](.assets/image.png){:height="10%"}
+
+Link to the `manifest.json` file directly as listed. For example:
+
+```
+https://raw.githubusercontent.com/samtowers/jf-ytdlp-info-reader-plugin/refs/heads/master/manifest.json
+```
+
+![alt text](.assets/image-1.png)
+
+
+## Manual Steps
+
 Go to the releases page and download the latest release.
 
 create a folder named `YTINFOReader` in the `plugins` directory inside your Jellyfin data directory. You can find your directory by going to Dashboard, and noticing the Paths section. Mine is the root folder of the default Metadata directory.

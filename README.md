@@ -48,7 +48,7 @@ For Video files it follow the same rules as the channel format.
 
 ## As a direct Jellyfin Repository
 
-Open Admin Dashboard.
+Open Admin Dashboard in your Jellyfin instance.
 
 Click on **Catalogue** and open the settings cog:
 

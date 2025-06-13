@@ -58,7 +58,7 @@ Add a new repository from the screen, using the "+" icon.
 
 Add a new entry as below:
 
-![alt text](.assets/image.png){:height="10%"}
+![alt text](.assets/image.png)
 
 Link to the `manifest.json` file directly as listed. For example:
 

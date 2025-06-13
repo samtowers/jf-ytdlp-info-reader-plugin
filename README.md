@@ -56,15 +56,18 @@ Click on **Catalogue** and open the settings cog:
 
 Add a new repository from the screen, using the "+" icon.
 
-Add a new entry as below:
-
-![alt text](.assets/image.png)
+Add a new entry as below.
 
 Link to the `manifest.json` file directly as listed. For example:
 
 ```
 https://raw.githubusercontent.com/samtowers/jf-ytdlp-info-reader-plugin/refs/heads/master/manifest.json
 ```
+
+![alt text](.assets/image.png)
+
+
+The plugin entry **YTINFOReader** should now be visible in the catalogue.
 
 ![alt text](.assets/image-1.png)
 
